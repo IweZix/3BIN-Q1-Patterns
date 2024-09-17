@@ -11,10 +11,14 @@ public class PalindromeObserver implements Observer {
         if (line == null) {
             displayStats();
         } else {
-            for (String mot : line.trim().split(" ")) {
-                StringBuffer temp = new StringBuffer(mot);
-                if (mot.contentEquals(temp.reverse())) {
-                    count++;
+            for (String mot : line.trim().split("[\\s,.\"]+")) {
+                mot = mot.replaceAll("^[\\W_]+|[\\W_]+$", ""); // Remove leading and trailing punctuation
+                if (mot.length() > 1) {
+                    StringBuffer temp = new StringBuffer(mot);
+                    if (temp.reverse().toString().equals(mot)) {
+                        System.out.println("Palindrome trouvé: " + mot);
+                        count++;
+                    }
                 }
             }
         }
