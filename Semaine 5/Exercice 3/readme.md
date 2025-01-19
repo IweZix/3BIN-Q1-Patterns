@@ -10,8 +10,8 @@ Pattern : Visitor
 
 Client = Main
 Element = Partie
-accept() = demande()
+    accept() = demande()
 ConcreteElement = Valeur, Groupe
 Visitor = Traitement
-visit() = traiteValeur(), traiteGroupe()
+    visit() = traiteValeur(), traiteGroupe()
 ConcreteVisitor = Listeur, Totaliseur, ListeurNombre

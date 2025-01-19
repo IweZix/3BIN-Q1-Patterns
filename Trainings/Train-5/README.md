@@ -1,0 +1,1 @@
+C'est une Strategy car on essaye de supprimer un if/else if/else if/else

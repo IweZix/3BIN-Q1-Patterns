@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Train-1/Train-1.iml" filepath="$PROJECT_DIR$/Train-1/Train-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-10/Train-10.iml" filepath="$PROJECT_DIR$/Train-10/Train-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-11/Train-11.iml" filepath="$PROJECT_DIR$/Train-11/Train-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-12/Train-12.iml" filepath="$PROJECT_DIR$/Train-12/Train-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-13/Train-13.iml" filepath="$PROJECT_DIR$/Train-13/Train-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-14/Train-14.iml" filepath="$PROJECT_DIR$/Train-14/Train-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-15/Train-15.iml" filepath="$PROJECT_DIR$/Train-15/Train-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-16/Train-16.iml" filepath="$PROJECT_DIR$/Train-16/Train-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-17/Train-17.iml" filepath="$PROJECT_DIR$/Train-17/Train-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-2/Train-2.iml" filepath="$PROJECT_DIR$/Train-2/Train-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-3/Train-3.iml" filepath="$PROJECT_DIR$/Train-3/Train-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-4/Train-4.iml" filepath="$PROJECT_DIR$/Train-4/Train-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-5/Train-5.iml" filepath="$PROJECT_DIR$/Train-5/Train-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-6/Train-6.iml" filepath="$PROJECT_DIR$/Train-6/Train-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-7/Train-7.iml" filepath="$PROJECT_DIR$/Train-7/Train-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-8/Train-8.iml" filepath="$PROJECT_DIR$/Train-8/Train-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Train-9/Train-9.iml" filepath="$PROJECT_DIR$/Train-9/Train-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trainings.iml" filepath="$PROJECT_DIR$/Trainings.iml" />
+    </modules>
+  </component>
+</project>

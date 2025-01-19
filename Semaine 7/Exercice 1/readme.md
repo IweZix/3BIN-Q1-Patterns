@@ -3,9 +3,9 @@
 Pattern : Builder
 
 Théorique | Pratique
-Director -> RobotBuilder 
-Builder -> RobotBuilder
-ConcreteBuilder -> RobotBuilder
-Product -> Robot
+Director : RobotBuilder 
+Builder : RobotBuilder
+ConcreteBuilder : RobotBuilder
+Product : Robot
 
 
